@@ -47,7 +47,7 @@ Each problem folder contains:
 
 ## Credits
 
-- **Mohamed Y. Khairlden** - Creator and maintainer of this repository.
+- **Mohamed Khairlden** - Creator and maintainer of this repository.
 
 ## License
 
