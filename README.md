@@ -12,6 +12,8 @@ For each problem, you will find:
 
 The goal of this repository is to demonstrate best practices for conducting technical interviews by sharing examples of challenges that encourage critical thinking and efficient coding.
 
+**Note:** Some of the material in this repository has been generated with the help of AI to enhance the quality and variety of the problems presented.
+
 ## Usage
 
 To explore each problem:
